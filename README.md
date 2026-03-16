@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rares 👋
 
-<!--
-**R-Ares/R-ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about building things and understanding how they work under the hood.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, writing clean code, and treating programming like a puzzle waiting to be solved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies
+C • C++ • Java • Bash • VHDL  
+Linux • CLI • CMD • PowerShell
+
+## ⚙️ Interests
+Systems programming  
+Developer tools  
+Algorithms & problem solving
+
+## ♟️ Projects
+- Chess project: https://github.com/R-Ares/Chess
+
+Always learning, always building.
